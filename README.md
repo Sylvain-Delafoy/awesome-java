@@ -92,6 +92,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [JavaCC](https://javacc.org/) - Parser generator with syntactic lookahead.
 * [JavaServer Faces](http://javaee.github.io/javaserverfaces-spec/) - Oracle's open-source implementation of the JSF standard, Mojarra.
 * [JavaServer Pages](http://javaee.github.io/javaee-jsp-api/) - Common templating for websites with custom tag libraries.
+* [Joda-Time](http://www.joda.org/joda-time/) - De facto standard date/time-library before Java 8. Brings most of Java 8 date features to Java 5 or later.
 * [JUnit](http://junit.org/) - Common testing framework.
 * [Launch4j](http://launch4j.sourceforge.net/) - Wraps JARs in lightweight and native Windows executables.
 * [Quartz](https://github.com/quartz-scheduler/quartz) - Open-source job scheduler library with Apache 2.0 license.
